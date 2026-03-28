@@ -1,15 +1,17 @@
-let menubar=document.getElementById("menu-btn")
-let navlist=document.querySelector(".nav")
-menubar.addEventListener('click',()=>{
-    navlist.classList.toggle("active")
-})
+let menubar = document.getElementById("menu-btn");
+let navlist = document.querySelector(".nav");
+menubar.addEventListener('click', ()=>{
+    navlist.classList.toggle("active");
+});
 
-let search=document.getElementById("search-btn")
-let searchform=document.querySelector(".search-form")
+let search = document.getElementById("search-btn");
+let searchform = document.querySelector(".search-form");
+search.addEventListener('click', ()=>{
+    searchform.classList.toggle("active");
+});
 
-search.addEventListener('click' ,()=>{
-    searchform.classList.toggle("active")
-})
-
-let cart=document.getElementById("cart-btn")
-let cartcontainer=document.querySelector(".cart-item-container");
+let cart = document.getElementById("cart-btn");
+let cartcontainer = document.querySelector(".cart-item-container");
+cart.addEventListener('click', ()=>{
+    cartcontainer.classList.toggle("active");
+});
