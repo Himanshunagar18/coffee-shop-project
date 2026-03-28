@@ -26,19 +26,19 @@ Home Page -- <br />
 About Us Page <br />
 ![About](Images/aboutuspage.png) <br />
 <br />
-Home Page -- <br />
+Menu Page -- <br />
 ![Menu](Images/menupage.png) <br />
 <br />
-Home Page -- <br />
+Products Page -- <br />
 ![Product](Images/productpage.png) <br />
 <br />
-Home Page -- <br />
+Review Page -- <br />
 ![review](Images/reviewpage.png) <br />
 <br />
-Home Page -- <br />
+ContactUs Page -- <br />
 ![Contact](Images/contactuspage.png) <br />
 <br />
-Home Page -- <br />
+Blogs Page -- <br />
 ![Blogs](Images/blogspage.png) <br />
 <br />
 
