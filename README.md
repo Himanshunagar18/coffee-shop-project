@@ -5,7 +5,7 @@ A modern, fully responsive Coffee Shop website built with HTML5, CSS3, and JavaS
 
 A modern, fully responsive Coffee Shop website built using HTML5, CSS3, and JavaScript. This project showcases a clean UI design, smooth user experience, and mobile-friendly layout suitable for real-world business use.
 
-🚀 Features
+🚀 Features <br />
 📱 Fully Responsive Design (Mobile, Tablet, Desktop)
 🎨 Modern and Clean User Interface
 ⚡ Smooth scrolling and interactive elements
