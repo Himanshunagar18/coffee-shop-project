@@ -20,7 +20,8 @@ This project was created to improve front-end development skills and to demonstr
 
 📸 Preview <br />
 
-(Add screenshots here)
+Home page -- <br />
+![Home](images/homepage.png)
 
 🌐 Live Demo <br />
 
