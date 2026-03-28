@@ -24,4 +24,4 @@ This project was created to improve front-end development skills and to demonstr
 
 🌐 Live Demo <br />
 
-(Add your deployed link here)
+( https://himanshunagar18.github.io/coffee-shop-project/)
