@@ -21,25 +21,25 @@ This project was created to improve front-end development skills and to demonstr
 📸 Preview <br />
 
 Home Page -- <br />
-![Home](images/homepage.png) <br />
+![Home](Images/homepage.png) <br />
 <br />
 About Us Page <br />
-![About](images/aboutuspage.png) <br />
+![About](Images/aboutuspage.png) <br />
 <br />
 Home Page -- <br />
-![Menu](images/menupage.png) <br />
+![Menu](Images/menupage.png) <br />
 <br />
 Home Page -- <br />
-![Product](images/productpage.png) <br />
+![Product](Images/productpage.png) <br />
 <br />
 Home Page -- <br />
-![review](images/reviewpage.png) <br />
+![review](Images/reviewpage.png) <br />
 <br />
 Home Page -- <br />
-![Contact](images/contactuspage.png) <br />
+![Contact](Images/contactuspage.png) <br />
 <br />
 Home Page -- <br />
-![Blogs](images/blogspage.png) <br />
+![Blogs](Images/blogspage.png) <br />
 <br />
 
 🌐 Live Demo <br />
