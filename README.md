@@ -11,9 +11,9 @@ A modern, fully responsive Coffee Shop website built using HTML5, CSS3, and Java
 🔥 Fast loading and optimized performance <br />
 <br />
 🛠️ Technologies Used <br />
-HTML5 <br />
-CSS3 (Flexbox & Grid) <br />
-JavaScript (ES6+) <br />
+✅ HTML5 <br />
+✅ CSS3 (Flexbox & Grid) <br />
+✅ JavaScript (ES6+) <br /> <br />
 🎯 Purpose <br />
 
 This project was created to improve front-end development skills and to demonstrate the ability to build a real-world responsive website. <br />
