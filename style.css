@@ -85,6 +85,16 @@ color: white;
 
 }
 
+.header .nav {
+    display: none;  
+}
+
+.header .nav.active {
+    display: block;  
+}
+
+
+
 .header .nav a:hover{
     color: rgb(179, 85, 85);
     border-bottom: .1rem solid var(--main-color);

@@ -15,3 +15,9 @@ let cartcontainer = document.querySelector(".cart-item-container");
 cart.addEventListener('click', ()=>{
     cartcontainer.classList.toggle("active");
 });
+
+document.addEventListener('click', (e)=>{
+    if(!navlist.contains(e.target) && e.target != menubar){
+        navlist.classList.remove("active");
+    }
+});
