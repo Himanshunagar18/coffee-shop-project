@@ -29,4 +29,7 @@
     .header .nav {
         display: flex;  
     }
+    #menu-btn {
+        display: none;    
+    }
 }
