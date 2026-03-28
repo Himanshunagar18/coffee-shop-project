@@ -1,0 +1,61 @@
+@media (max-width:991px)
+{
+    html{
+        font-size: 55%;
+    }
+    .header{
+        padding:1.5rem 2rem;
+    }
+    section{
+        padding: 2rem;
+    }
+}
+
+
+ @media (max-width:768px)
+{
+    #menu-btn{
+        display: inline-block;
+    }
+    .header nav{
+        position:absolute;
+        top: 100%;  right:10%;
+        background:#fff;
+        width: 20rem;
+        height:60vh;
+        right: .9%;
+    }
+    .header .nav.active{
+        display: none;
+    }
+    .header .nav a{
+        color:var(--black);
+        display: block;
+        margin: 1.5rem;
+        padding: .5rem;
+        font-size: 2rem;
+
+    }
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+    .home .content p{
+        font-size: 1.5rem;
+
+    }
+} 
+
+@media(max-width:450px){
+    html{
+        font-size: 50px;
+    }
+}
